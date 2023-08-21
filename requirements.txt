@@ -6,7 +6,7 @@
 #
 aiodns==3.0.0
     # via aiohttp
-aiofiles==22.1.0
+aiofiles==23.2.1
     # via -r requirements.in
 aiohttp[speedups]==3.8.3
     # via -r requirements.in
@@ -80,7 +80,7 @@ regex==2022.10.31
     # via -r requirements.in
 requests==2.28.2
     # via -r requirements.in
-scipy==1.7.3
+scipy==1.11.2
     # via imagehash
 shapely==1.8.5.post1
     # via -r requirements.in
